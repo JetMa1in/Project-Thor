@@ -16,6 +16,7 @@ We wouldn't upload Bleeding Edge data till it's verfiy to work on the Beta branc
 
 
 # Please Don't Message Me On Github
-You should use are discord server because most of us will be on it anyway. 
+You should use our discord server because most of us will be on it anyway. 
+https://discord.gg/JshBnwH
 
 
