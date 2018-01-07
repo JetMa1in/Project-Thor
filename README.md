@@ -6,8 +6,8 @@ A open source customer level encrypted isolated network that's makes everything 
 We try our to keep everything neat and updated so please follow the instructions on how to understand the workflow of Project-Thor.
 
 
-# Look At the Projects To Understand What Needs To Be Completely Or Fixed 
-It helps to keep a neat and keeps done unnecessary development on things that work.
+# Look At the Projects To Understand What Needs To Be Complete it Or Fixed 
+It helps to keep a neat github repository and keeps done unnecessary development on things that work.
 
 
 # We Don't Store/Keep The Bleeding Edge Data On Github
